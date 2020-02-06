@@ -1,4 +1,4 @@
 # my-Ruby-programs
-Here are some of my Ruby codes, ranging from my practices and some answers for tech interview questions.
+Here are some of my Ruby codes.
 
-P.S. The tech questions will be pushed to the GibHub for reference soon in Aug 2015
+P.S. The tech questions will be pushed to the GitHub for reference soon 
